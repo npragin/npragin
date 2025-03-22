@@ -6,7 +6,7 @@ Hey! I'm an undergrad passionate about autonomous systems. I'm currently TAing m
 
 - [**Autonomous Underwater Vehicle Docking RL**](https://github.com/npragin/learning-based-docking): NVIDIA Isaac environment for training generalizable AUV docking policies.
   
-- [**Human Pose Estimation Comparison**](https://github.com/npragin/hpe-mpii-comparative): Comparison of three primary approaches for human pose estimation using PyTorch.
+- [**Human Pose Estimation Comparison**](https://github.com/npragin/hpe-mpii-comparative): Evaluation of three primary approaches for human pose estimation using PyTorch.
   
 - [**Informative Path Planning w/ CNNs**](https://github.com/npragin/mnist-exploration-robot): An agent that explores maps to classify handwritten digits and navigate to dynamic goals.
   
