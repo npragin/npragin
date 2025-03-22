@@ -2,12 +2,6 @@
 
 Hi there! I'm an undergrad passionate about autonomous systems. I'm currently TAing machine learning while studying robotic software.
 
-### 🔭 Current Focus
-- Autonomous systems
-- Machine / Deep / Reinforcement learning
-- 3D Computer Vision
-- Motion planning for robotics
-
 ### 🧠 Recent Projects
 
 - [**Autonomous Underwater Vehicle Docking RL**](https://github.com/npragin/learning-based-docking): Developed policies for AUVs that generalize to out-of-distribution dynamics in NVIDIA Isaac.
@@ -18,10 +12,7 @@ Hi there! I'm an undergrad passionate about autonomous systems. I'm currently TA
   
 - [**ROS Exploration & Mapping**](https://github.com/npragin/ros-backup): Implemented path planning and obstacle avoidance for a robot to map a 6-room environment.
 
-### 🌱 Research Interests
-Exploring motion planning in instance-segmented point clouds and how to incorporate natural language into optimization problems.
-
-### 🔍 Previous Experience
+### 👨‍💻 Previous Experience
 - Contributed to a research lab developing four-wheeled apple-picking robots
 - Interned at [a startup](https://www.linkedin.com/company/sifly/) working on UAVs for agriculture
 - Worked with [FSAE team](https://www.global-formula-racing.com/en/) on fully autonomous racecar software
