@@ -1,6 +1,6 @@
 # 👋 Noah Pragin – CS @ Oregon State
 
-Hey! I'm an undergrad passionate about autonomous systems. I'm currently TAing machine learning while studying robotic software.
+Hey! I'm an undergrad passionate about autonomous systems. I'm currently TAing machine learning while studying robot software.
 
 ### 🧠 Recent Projects
 
@@ -8,7 +8,7 @@ Hey! I'm an undergrad passionate about autonomous systems. I'm currently TAing m
   
 - [**Human Pose Estimation Comparison**](https://github.com/npragin/hpe-mpii-comparative): Evaluation of three primary approaches for human pose estimation using PyTorch.
   
-- [**Informative Path Planning w/ CNNs**](https://github.com/npragin/mnist-exploration-robot): An agent that explores maps to classify handwritten digits and navigate to dynamic goals.
+- [**Informative Path Planning w/ CNNs**](https://github.com/npragin/mnist-exploration-robot): An agent that explores to classify handwritten digits and navigate to dynamic goals.
   
 - [**ROS Exploration & Mapping**](https://github.com/npragin/ros-backup): Path planning and obstacle avoidance for a robot to map a 6-room environment using LIDAR.
 
