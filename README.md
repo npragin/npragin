@@ -10,7 +10,7 @@ Hey! I'm an undergrad passionate about autonomous systems. I'm currently TAing m
   
 - [**Informative Path Planning w/ CNNs**](https://github.com/npragin/mnist-exploration-robot): An agent that explores to classify handwritten digits and navigate to dynamic goals.
   
-- [**ROS Exploration & Mapping**](https://github.com/npragin/unseen-env-mapping): Path planning and obstacle avoidance for a robot to map a 6-room environment using LIDAR.
+- [**Exploration & Mapping in ROS**](https://github.com/npragin/unseen-env-mapping): Path planning and obstacle avoidance for a robot to map a 6-room environment using LIDAR.
 
 ### 👨‍💻 Previous Experience
 - Contributed to a research lab developing four-wheeled apple-picking robots
