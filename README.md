@@ -12,6 +12,9 @@ Hey! I'm an undergrad passionate about autonomous systems. I'm currently TAing m
   
 - [**Exploration & Mapping in ROS**](https://github.com/npragin/unseen-env-mapping): Path planning and obstacle avoidance for a robot to map a 6-room environment using LIDAR.
 
+- [**IoMT Threat Detection**](https://github.com/npragin/iomt-mqtt-threat-detection): ML pipeline for detecting malicious network traffic in medical devices over MQTT using scikit-learn.
+
+
 ### 👨‍💻 Previous Experience
 - Contributed to a research lab developing four-wheeled apple-picking robots
 - Interned at [a startup](https://www.linkedin.com/company/sifly/) working on UAVs for agriculture
