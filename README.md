@@ -1,6 +1,6 @@
 # 👋 Noah Pragin – CS @ Oregon State
 
-Hey! I'm an undergrad passionate about autonomous systems. I'm currently TAing machine learning while studying robot software.
+Hey! I'm an undergrad passionate about autonomous systems. I'm currently TAing machine learning, contributing to research, and leading the AI Club @ OSU while studying robot software.
 
 ### 🧠 Recent Projects
 
@@ -16,6 +16,7 @@ Hey! I'm an undergrad passionate about autonomous systems. I'm currently TAing m
 
 
 ### 👨‍💻 Previous Experience
+- Researched how different point cloud DNNs affect the real2sim gap when used as a preprocessing step for RL
 - Contributed to a research lab developing four-wheeled apple-picking robots
 - Interned at [a startup](https://www.linkedin.com/company/sifly/) working on UAVs for agriculture
 - Worked with [FSAE team](https://www.global-formula-racing.com/en/) on fully autonomous racecar software
