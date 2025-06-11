@@ -1,6 +1,7 @@
 # 👋 Noah Pragin – CS @ Oregon State
 
-Hey! I'm an undergrad passionate about autonomous systems. I'm currently TAing machine learning, contributing to research, and leading the AI Club @ OSU while studying robot software.
+Hey! I'm an undergrad passionate about autonomous systems.  
+I'm currently TAing machine learning, contributing to research, and leading the AI Club @ OSU while studying robot software.
 
 ### 🧠 Recent Projects
 
