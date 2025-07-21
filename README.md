@@ -17,6 +17,7 @@ I'm currently TAing machine learning, contributing to research, and leading the 
 
 
 ### 👨‍💻 Previous Experience
+- Wrote behavior trees at Anduril to define the autonomous behavior for the [Altius drone](https://www.anduril.com/hardware/altius/)
 - Researched how different point cloud DNNs affect the real2sim gap when used as a preprocessing step for RL
 - Contributed to a research lab developing four-wheeled apple-picking robots
 - Interned at [a startup](https://www.linkedin.com/company/sifly/) working on UAVs for agriculture
