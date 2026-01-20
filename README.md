@@ -20,6 +20,6 @@ I'm currently TAing machine learning, contributing to research, and leading the 
 - Wrote autonomy at Anduril to define behaviors for the [Altius drone](https://www.anduril.com/hardware/altius/)
 - Researched how different point cloud DNNs affect the sim2real gap when used as a preprocessing step for RL
 - Contributed to a research lab developing four-wheeled apple-picking robots
-- Interned at [a startup](https://www.linkedin.com/company/sifly/) working on UAVs for agriculture
+- Interned at [a startup](https://www.linkedin.com/company/sifly/) working on [world-record breaking](https://www.flyingmag.com/sifly-electric-drone-endurance-flight-record/) UAVs
 - Worked with an [FSAE team](https://www.global-formula-racing.com/en/) on fully autonomous racecar software, which [won first place in the USA](https://www.sae.org/binaries/content/assets/cm/content/attend/2024/fsae_2025_mi6_results.pdf) in 2025
 - Former full-stack web developer (2-year industry experience)
